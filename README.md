@@ -5,3 +5,9 @@ Includes the data for the magist project, the code and results
 Includes the publication data
 
 Content: 
+* Data magist_ Data files .csv
+* Präsentation 1: ppt files, results, code
+* advanced_sql_challenges: some further scripts not related to the magist project
+* magist_dump: data
+* publications data: data from the publications project
+* Skript test1: sql code
