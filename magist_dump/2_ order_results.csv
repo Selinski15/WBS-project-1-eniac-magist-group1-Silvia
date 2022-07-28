@@ -1,0 +1,9 @@
+order_status,count(*)
+delivered,96478
+unavailable,609
+shipped,1107
+canceled,625
+invoiced,314
+processing,301
+approved,2
+created,5
